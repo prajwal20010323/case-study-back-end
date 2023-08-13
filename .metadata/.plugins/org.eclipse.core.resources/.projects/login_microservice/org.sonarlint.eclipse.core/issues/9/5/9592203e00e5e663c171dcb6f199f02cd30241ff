@@ -1,0 +1,7 @@
+
+g	java:S1253"<This block of commented-out lines of code should be removed.(ÖÇ¨ÑHÿ&RMAJORZ
+CODE_SMELL
+a
+java:S3655?"7Call "Optional#isPresent()" before accessing the value.(€ß«ÜúÿÿÿÿHˆ'RMAJORZBUG
+g	java:S125'"<This block of commented-out lines of code should be removed.(íÏŸÎH‰'RMAJORZ
+CODE_SMELL

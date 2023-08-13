@@ -1,0 +1,44 @@
+
+r
+java:S2259x"FA "NullPointerException" could be thrown; "getBody()" can return null.(ÄÎ±â8£İŠ’1HÑ&RMAJORZBUG
+”
+java:S1192a"fDefine a constant instead of duplicating this literal "http://localhost:8085/update/%d/%s/%s" 4 times.(Ù‚²H“%RCRITICALZ
+CODE_SMELL
+r
+java:S2259T"FA "NullPointerException" could be thrown; "getBody()" can return null.(’ê€Ó8£İŠ’1HÎ&RMAJORZBUG
+r
+java:S2259S"FA "NullPointerException" could be thrown; "getBody()" can return null.(ïÆ†é8£İŠ’1HÚ&RMAJORZBUG
+	java:S117y"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Õ­ƒÊøÿÿÿÿH†%RMINORZ
+CODE_SMELL
+k
+java:S1481G"3Remove this unused "usreDetailsObj" local variable.(°àã¿øÿÿÿÿ8¸¿ìê‘1Hƒ%RMINORZ
+CODE_SMELL
+p	java:S106L"9Replace this use of System.out or System.err by a logger.(®”¿Šüÿÿÿÿ8ú¥Ï‹’1Hı%RMAJORZ
+CODE_SMELL
+d	java:S1067"9Replace this use of System.out or System.err by a logger.(—‡œ¹H‚%RMAJORZ
+CODE_SMELL
+w
+java:S2259y"FA "NullPointerException" could be thrown; "getBody()" can return null.(Õ­ƒÊøÿÿÿÿ8£İŠ’1H×&RMAJORZBUG
+
+java:S2259;"NA "NullPointerException" could be thrown; "demoTrainFareObj" is nullable here.(©ã¡’üÿÿÿÿ8£İŠ’1Hİ&RMAJORZBUG
+ƒ	java:S1174"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ó¹˜¥8µ²‹’1HÒ%RMINORZ
+CODE_SMELL
+|	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Ç Ê‰H‘%RMINORZ
+CODE_SMELL
+z
+java:S1854G"BRemove this useless assignment to local variable "usreDetailsObj".(°àã¿øÿÿÿÿ8¸¿ìê‘1H%RMAJORZ
+CODE_SMELL
+i	java:S106V"9Replace this use of System.out or System.err by a logger.(»¨ûÿÿÿÿH%RMAJORZ
+CODE_SMELL
+r
+java:S2259U"FA "NullPointerException" could be thrown; "getBody()" can return null.(Ç Ê‰8£İŠ’1Há&RMAJORZBUG
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷×ËÛH%RMINORZ
+CODE_SMELL
+|	java:S117T"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(’ê€ÓH…%RMINORZ
+CODE_SMELL
+|	java:S117x"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÄÎ±âH%RMINORZ
+CODE_SMELL
+‚	java:S117š"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(·µÑªüÿÿÿÿH’%RMINORZ
+CODE_SMELL
+r
+java:S2259w"FA "NullPointerException" could be thrown; "getBody()" can return null.(ïÆ†é8£İŠ’1HÔ&RMAJORZBUG

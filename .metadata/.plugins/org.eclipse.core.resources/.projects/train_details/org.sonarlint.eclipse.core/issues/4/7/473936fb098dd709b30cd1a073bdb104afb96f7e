@@ -1,0 +1,27 @@
+
+n	java:S125x"<This block of commented-out lines of code should be removed.(Œğ8öæÉå’1Hİ(RMAJORZ
+CODE_SMELL
+|	java:S117t"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(öÅ«H(RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ê‰®úúÿÿÿÿH›(RMINORZ
+CODE_SMELL
+l	java:S125K"<This block of commented-out lines of code should be removed.(”ÆˆşÿÿÿÿH(RMAJORZ
+CODE_SMELL
+{	java:S117u"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(´¹øIH™(RMINORZ
+CODE_SMELL
+i
+java:S1135d"2Complete the task associated to this TODO comment.(» æÿÿÿÿÿ8¢Ÿõè’1H”)RINFOZ
+CODE_SMELL
+k	java:S106w"9Replace this use of System.out or System.err by a logger.(ö¡¹ê8®îƒå’1HÁ(RMAJORZ
+CODE_SMELL
+q	java:S106€"9Replace this use of System.out or System.err by a logger.(ªíÇ«ùÿÿÿÿ8±å’å’1HÈ(RMAJORZ
+CODE_SMELL
+|	java:S117r"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(®¬şÏHœ(RMINORZ
+CODE_SMELL
+h	java:S125 "<This block of commented-out lines of code should be removed.(„§ñ£H•(RMAJORZ
+CODE_SMELL
+h
+java:S2589G"7Remove this expression which always evaluates to "true"(õ­­ªşÿÿÿÿH–(RMAJORZ
+CODE_SMELL
+|	java:S117s"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£›—ìHŸ(RMINORZ
+CODE_SMELL

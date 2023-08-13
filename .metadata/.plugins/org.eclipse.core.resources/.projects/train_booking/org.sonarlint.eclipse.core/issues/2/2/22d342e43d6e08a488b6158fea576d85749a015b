@@ -1,0 +1,7 @@
+
+Ö	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È¬≠ØH‚$RMINORZ
+CODE_SMELL
+	java:S116#"TRename this field "PNRNumber" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(“˙“ÿH„$RMINORZ
+CODE_SMELL
+ê	java:S116)"^Rename this field "razorpay_payment_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óå„î8È≥Öçí1H∞&RMINORZ
+CODE_SMELL

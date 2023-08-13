@@ -1,0 +1,8 @@
+com\prajwal\onlineRailwayBooking\model\TrainFare.class
+com\prajwal\onlineRailwayBooking\model\TrainDetails.class
+com\prajwal\onlineRailwayBooking\repository\TrainFareRepo.class
+com\prajwal\onlineRailwayBooking\controller\TrainDetailsController.class
+com\prajwal\onlineRailwayBooking\service\TrainDetailsService.class
+com\prajwal\onlineRailwayBooking\Application.class
+com\prajwal\onlineRailwayBooking\repository\RailwayDetailsRepo.class
+com\prajwal\onlineRailwayBooking\service\TrainDetailsServiceImpl.class

@@ -1,0 +1,9 @@
+
+¢
+java:S1488-"jImmediately return this expression instead of assigning it to the temporary variable "transactionDetails".(Æİ±¥úÿÿÿÿ8÷ı“š1Hğ$RMINORZ
+CODE_SMELL
+p	java:S106,"9Replace this use of System.out or System.err by a logger.(ÍÕ§§ùÿÿÿÿ8ëÔ±1Hó$RMAJORZ
+CODE_SMELL
+œ
+java:S1488"jImmediately return this expression instead of assigning it to the temporary variable "transactionDetails".(ª­Î;8Öÿ™1Hí$RMINORZ
+CODE_SMELL

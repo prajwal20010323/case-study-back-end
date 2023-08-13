@@ -1,0 +1,31 @@
+
+…	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(¡ö®®H˜,RMINORZ
+CODE_SMELL
+p
+java:S1854g"8Remove this useless assignment to local variable "from".(ˆÓíúûÿÿÿÿ8¸“ë€’1H™,RMAJORZ
+CODE_SMELL
+a
+java:S1481g")Remove this unused "from" local variable.(ˆÓíúûÿÿÿÿ8¸“ë€’1Hš,RMINORZ
+CODE_SMELL
+v
+java:S2259x"EA "NullPointerException" could be thrown; "object1" is nullable here.(‘¿’”ÿÿÿÿÿ8€Õáî‘1Hœ,RMAJORZBUG
+	java:S117U"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(êÂ²÷úÿÿÿÿH ,RMINORZ
+CODE_SMELL
+ƒ	java:S117n"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Û›8ë‘µ‹’1H¡,RMINORZ
+CODE_SMELL
+h
+java:S1854h"6Remove this useless assignment to local variable "to".(ÓöşR8¸“ë€’1H¢,RMAJORZ
+CODE_SMELL
+Y
+java:S1481h"'Remove this unused "to" local variable.(ÓöşR8¸“ë€’1H£,RMINORZ
+CODE_SMELL
+r
+java:S1854f"?Remove this useless assignment to local variable "trainNumber".(ìÉÄş8¸“ë€’1H¥,RMAJORZ
+CODE_SMELL
+d	java:S106o"9Replace this use of System.out or System.err by a logger.(äüÃâH¦,RMAJORZ
+CODE_SMELL
+p	java:S106x"9Replace this use of System.out or System.err by a logger.(‘¿’”ÿÿÿÿÿ8Á“é‹’1H§,RMAJORZ
+CODE_SMELL
+c
+java:S1481f"0Remove this unused "trainNumber" local variable.(ìÉÄş8¸“ë€’1H¨,RMINORZ
+CODE_SMELL

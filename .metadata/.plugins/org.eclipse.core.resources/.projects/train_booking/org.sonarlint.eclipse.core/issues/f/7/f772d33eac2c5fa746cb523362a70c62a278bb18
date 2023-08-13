@@ -1,0 +1,9 @@
+
+ê	java:S116"^Rename this field "razorpay_payment_id" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(óå„î8ÌœÖçí1H≤&RMINORZ
+CODE_SMELL
+s	java:S125"<This block of commented-out lines of code should be removed.(’ÓÁ≤˙ˇˇˇˇ8¥∏Åí1HÈ$RMAJORZ
+CODE_SMELL
+Ö	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(È¬≠ØH‰$RMINORZ
+CODE_SMELL
+n	java:S125"<This block of commented-out lines of code should be removed.(„ü¶÷8†√œÓë1HÂ$RMAJORZ
+CODE_SMELL

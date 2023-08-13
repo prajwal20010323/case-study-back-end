@@ -1,0 +1,17 @@
+
+v	java:S112M"FDefine and throw a dedicated exception instead of using a generic one.(êÆÖËùÿÿÿÿH½'RMAJORZ
+CODE_SMELL
+\
+java:S3655."7Call "Optional#isPresent()" before accessing the value.(Ø‰»üH¼'RMAJORZBUG
+g
+java:S3740A"/Provide the parametrized type for this generic.(²–±àÿÿÿÿÿ8¯æ´’1HÎ'RMAJORZ
+CODE_SMELL
+q	java:S112I"FDefine and throw a dedicated exception instead of using a generic one.(¦›²HÁ'RMAJORZ
+CODE_SMELL
+q	java:S112O"FDefine and throw a dedicated exception instead of using a generic one.(ÈçïÕHÀ'RMAJORZ
+CODE_SMELL
+_
+java:S1602C",Remove useless curly braces around statement(ÿÍ8¯æ´’1HĞ'RMINORZ
+CODE_SMELL
+h
+java:S36554"7Call "Optional#isPresent()" before accessing the value.(Â¢Æ²ûÿÿÿÿ8¯æ´’1HÏ'RMAJORZBUG

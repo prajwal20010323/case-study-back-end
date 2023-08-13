@@ -1,0 +1,7 @@
+
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ëè”ûÿÿÿÿHÛ'RMINORZ
+CODE_SMELL
+	java:S116 "QRename this field "ACFare" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(±Ü®ÌûÿÿÿÿHÜ'RMINORZ
+CODE_SMELL
+|	java:S116!"QRename this field "SLFare" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(£“øõHÚ'RMINORZ
+CODE_SMELL

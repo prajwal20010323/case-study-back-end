@@ -1,0 +1,11 @@
+
+„	java:S116&"TRename this field "SLWaiting" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¶Ÿ±ˆþÿÿÿÿHØ'RMINORZ
+CODE_SMELL
+‹	java:S116%"[Rename this field "SLAvailableSeats" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÿÁÐ·øÿÿÿÿHÕ'RMINORZ
+CODE_SMELL
+†	java:S116$"[Rename this field "ACAvailableSeats" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÜÊ¢ØHÙ'RMINORZ
+CODE_SMELL
+Š	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ëèž”ûÿÿÿÿH×'RMINORZ
+CODE_SMELL
+	java:S116'"TRename this field "ACWaiting" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Š‚ÞÌHÖ'RMINORZ
+CODE_SMELL

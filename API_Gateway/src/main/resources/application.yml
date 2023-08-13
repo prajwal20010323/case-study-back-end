@@ -1,0 +1,39 @@
+#spring:
+# cloud:
+#   gateway:
+#     routes:
+#       - id: demo
+#         uri: lb://DEMO
+#         predicates:
+#           - Path=/**
+#       
+#       - id: Booking-Details
+#         uri: lb://BOOKING-DETAILS
+#         predicates:
+#           - Path=/**
+#         
+#       - id: User
+#         uri: lb://LOGIN-SECURITY
+#         predicates:
+#           - Path=/**  
+#           
+#      
+#     discovery:
+#        locator:
+#          enabled: true
+#          lowerCaseServiceId: true
+spring:
+  application:
+    name: API-GATEWAY
+  cloud:
+    gateway:
+      default-filters:
+        - DedupeResponseHeader=Access-Control-Allow-Credentials Access-Control-Allow-Origin
+      globalcors:
+        corsConfigurations:
+          '[/**]':
+              allowedOrigins: "*"
+              allowedMethods: "*"
+              allowedHeaders: "*"
+#filters:
+#           - AuthenticationFilter
